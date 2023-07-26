@@ -2,3 +2,5 @@
 <h2> By Mr.Hari from Saidemy </h2>
 <h2> It's time to start the DevOps Project-2!! Get ready!! </h2>
 we are going to deploy app using Ansible
+we are done with project 1
+
